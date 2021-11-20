@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/moacir-alves/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:neto--guimaraes1@hotmail.com">
+<a href="mailto:netoguimweb@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://whats.link/netoguim">
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **PHP, LARAVEL, REACT, MYSQL, HTML/CSS**
 
-- 📫 How to reach me **neto--guimaraes1@hotmail.com**
+- 📫 How to reach me **netoguimweb@gmail.com**
 
 - ⚡ Fun fact **Hardworker 👨🏻‍💻️**
 
